@@ -1,0 +1,7 @@
+C:\Work\Equality\Equality\Equality\obj\Debug\Equality.csprojResolveAssemblyReference.cache
+C:\Work\Equality\Equality\Equality\obj\Debug\Equality.csproj.CoreCompileInputs.cache
+C:\Work\Equality\Equality\Equality\bin\Debug\Equality.exe.config
+C:\Work\Equality\Equality\Equality\bin\Debug\Equality.exe
+C:\Work\Equality\Equality\Equality\bin\Debug\Equality.pdb
+C:\Work\Equality\Equality\Equality\obj\Debug\Equality.exe
+C:\Work\Equality\Equality\Equality\obj\Debug\Equality.pdb
